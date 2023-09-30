@@ -1,3 +1,5 @@
+![Jake Williams](/assets/image.jpg)
+
 # About
 I'm a scientist trying to understand how ecosystems work, how we might damage them, and how we would know.
 
