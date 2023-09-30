@@ -1,4 +1,4 @@
-![Jake Williams](/assets/image.jpg)
+![Jake Williams](/assets/image.jpg){: height="250"}
 
 # About
 I'm a scientist trying to understand how ecosystems work, how we might damage them, and how we would know.
