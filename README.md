@@ -11,8 +11,6 @@ I'm a final year PhD student at Imperial College London, the Zoological Society 
 
 [Publications](https://scholar.google.com/citations?hl=en&user=Z4Tl1S4AAAAJ)
 
-<https://scholar.google.com/citations?hl=en&user=Z4Tl1S4AAAAJ> (Publications)
+[Lab Homepage](https://ransomelab.science/?page_id=12)
 
-<https://ransomelab.science/?page_id=12> (Lab Homepage)
-
-<https://www.linkedin.com/in/jakewilliamsoxford> (CV)
+[CV](https://www.linkedin.com/in/jakewilliamsoxford)
