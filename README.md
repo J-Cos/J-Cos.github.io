@@ -3,7 +3,7 @@
 # About
 I'm a scientist trying to understand how ecosystems work, how we might damage them, and how we would know.
 
-I'm an economist seeking options to address widespread institutional failures of ecosystem governance. 
+I'm an economist seeking options to address institutional failures of ecosystem governance. 
 
 I'm a conservationist designing and evaluating new conservation strategies.
 
