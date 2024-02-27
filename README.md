@@ -9,6 +9,8 @@ I'm a conservationist designing and evaluating new conservation strategies.
 
 I'm a final year PhD student at Imperial College London, the Zoological Society of London and the Smithsonian Institution. Supervised by Dr Emma Ransome, Professor Nathalie Pettorelli and Dr Chris Meyer.
 
+![headImage](/assets/wordcloud.png){: height="150"}
+
 [Publications](https://scholar.google.com/citations?hl=en&user=Z4Tl1S4AAAAJ)
 
 [Lab Homepage](https://ransomelab.science/?page_id=12)
