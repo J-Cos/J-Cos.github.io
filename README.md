@@ -1,18 +1,17 @@
 ![headImage](/assets/headImage.jpeg){: height="150"}
 
 # About
-I'm a scientist trying to understand how ecosystems work, how we might damage them, and how we would know.
+I am a quantitative scientist and economist studying ecosystems, the biochemical cycles from which all organisms emerge. I try to improve our answers to the questions of how ecosystems work, how they could be damaged, how we could tell; and how human institutions govern ecosystem outcomes. 
 
-I'm an economist seeking options to address institutional failures of ecosystem governance. 
+I answer these questions using a wide variety of data types and quantitiative approaches, specialiinge in next-generation biomonitoring such as multi-omics and satellite remote sensing.
 
-I'm a conservationist designing and evaluating new conservation strategies.
+I am a former policy adviser at HM Treasury; and conservation design lead in the Zoological Society of London's Conservation and Policy Department- where I led the technical design of sucessfully funded conservation projects worth over £10,000,000. I have provided expert contributions to a range of policy briefs and POSTnotes including on ["Rewilding and Ecosystem Services"](https://post.parliament.uk/research-briefings/post-pn-0537/); [making space for rewilding](https://www.rewildingeurope.com/wp-content/uploads/2016/05/Making-Space-for-Rewilding-Policy-Brief1.pdf); and integrating microbes into ecosystem health assessments.
 
-I'm a final year PhD student at Imperial College London, the Zoological Society of London and the Smithsonian Institution. Supervised by Dr Emma Ransome, Professor Nathalie Pettorelli and Dr Chris Meyer.
+I completed my PhD at Imperial College London's Centre for Doctoral Training in Quantitiative Methods in Ecology and Evolution.
+
 
 ![wordCloud](/assets/wordcloud.png)
 
 [Publications](https://scholar.google.com/citations?hl=en&user=Z4Tl1S4AAAAJ)
 
-[Lab Homepage](https://ransomelab.science/?page_id=12)
-
-[CV](https://www.linkedin.com/in/jakewilliamsoxford)
+[Lab Homepage](https://scholar.google.com/citations?hl=en&user=B7YZK60AAAAJ&view_op=list_works&sortby=pubdate)
