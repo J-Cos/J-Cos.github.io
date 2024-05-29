@@ -9,7 +9,7 @@ I am a former policy adviser at HM Treasury; and former conservation design lead
 
 I am based at the Institute of Zoology, London. I completed my PhD at Imperial College London's Centre for Doctoral Training in Quantitative Methods in Ecology and Evolution.
 
-[CV](CV.pdf)
+[CV](/assets/CV.pdf)
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=Z4Tl1S4AAAAJ)
 
